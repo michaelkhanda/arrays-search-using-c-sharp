@@ -1,0 +1,13 @@
+/Users/michaelkhanda/Desktop/Arrayssearch/bin/Debug/netcoreapp3.1/Arrayssearch.deps.json
+/Users/michaelkhanda/Desktop/Arrayssearch/bin/Debug/netcoreapp3.1/Arrayssearch.runtimeconfig.json
+/Users/michaelkhanda/Desktop/Arrayssearch/bin/Debug/netcoreapp3.1/Arrayssearch.runtimeconfig.dev.json
+/Users/michaelkhanda/Desktop/Arrayssearch/bin/Debug/netcoreapp3.1/Arrayssearch.dll
+/Users/michaelkhanda/Desktop/Arrayssearch/bin/Debug/netcoreapp3.1/Arrayssearch.pdb
+/Users/michaelkhanda/Desktop/Arrayssearch/obj/Debug/netcoreapp3.1/Arrayssearch.csproj.AssemblyReference.cache
+/Users/michaelkhanda/Desktop/Arrayssearch/obj/Debug/netcoreapp3.1/Arrayssearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelkhanda/Desktop/Arrayssearch/obj/Debug/netcoreapp3.1/Arrayssearch.AssemblyInfoInputs.cache
+/Users/michaelkhanda/Desktop/Arrayssearch/obj/Debug/netcoreapp3.1/Arrayssearch.AssemblyInfo.cs
+/Users/michaelkhanda/Desktop/Arrayssearch/obj/Debug/netcoreapp3.1/Arrayssearch.csproj.CoreCompileInputs.cache
+/Users/michaelkhanda/Desktop/Arrayssearch/obj/Debug/netcoreapp3.1/Arrayssearch.dll
+/Users/michaelkhanda/Desktop/Arrayssearch/obj/Debug/netcoreapp3.1/Arrayssearch.pdb
+/Users/michaelkhanda/Desktop/Arrayssearch/obj/Debug/netcoreapp3.1/Arrayssearch.genruntimeconfig.cache
